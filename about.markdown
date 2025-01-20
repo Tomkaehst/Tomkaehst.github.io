@@ -1,18 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello,
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am Tom, a trained biochemists and currently a PhD researcher at the Dynamic Bioimaging Lab at UHasselt. In my work , I am specializing in single-molecule FRET and biomolecular dynamics with a focus on DNA-binding proteins.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+On this website, you'll find some general information about my person, my CV, my work, and other things I like to share.
 
 
-[jekyll-organization]: https://github.com/jekyll
+

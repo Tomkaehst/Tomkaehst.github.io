@@ -19,16 +19,18 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Tom Kache
-email: your-email@example.com
+email: <a id="email-link">[email hidden]</a>
 description: >- # this means to ignore newlines until "baseurl:"
   Biochemist from FSU Jena and UHasselt 🇪🇺
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Tomkaehst
+orcid: https://orcid.org/0000-0003-2915-5252
+mastodon: https://det.social/@TomKa_ehst
 
 # Build settings
 theme: minima
-plugins:
+#plugins:
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -49,3 +51,21 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+
+# Javascript snippet to attempt to hide my email address
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const username = "iciest.harness-6o"; // Replace with your email username
+    const domain = "icloud.com"; // Replace with your email domain
+    const email = username + "@" + domain;
+
+    // Find the element with ID "email-link" and set its href and content
+    const emailLink = document.getElementById("email-link");
+    if (emailLink) {
+      emailLink.href = "mailto:" + email;
+      emailLink.textContent = email;
+    }
+  });
+</script>
