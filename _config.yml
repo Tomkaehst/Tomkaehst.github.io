@@ -51,23 +51,3 @@ theme: minima
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-
-
-# Javascript snippet to attempt to hide my email address
-{% raw %}
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    const username = "yourname"; // Replace with your email username
-    const domain = "domain.com"; // Replace with your email domain
-    const email = username + "@" + domain;
-
-    // Find the element with ID "email-link" and set its href and content
-    const emailLink = document.getElementById("email-link");
-    if (emailLink) {
-      emailLink.href = "mailto:" + email;
-      emailLink.textContent = email;
-    }
-  });
-</script>
-{% endraw %}
