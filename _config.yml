@@ -55,10 +55,11 @@ theme: minima
 
 
 # Javascript snippet to attempt to hide my email address
+{% raw %}
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    const username = "iciest.harness-6o"; // Replace with your email username
-    const domain = "icloud.com"; // Replace with your email domain
+    const username = "yourname"; // Replace with your email username
+    const domain = "domain.com"; // Replace with your email domain
     const email = username + "@" + domain;
 
     // Find the element with ID "email-link" and set its href and content
@@ -69,3 +70,4 @@ theme: minima
     }
   });
 </script>
+{% endraw %}
