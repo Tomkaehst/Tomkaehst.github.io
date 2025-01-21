@@ -28,7 +28,6 @@ github_username:  Tomkaehst
 
 # Build settings
 theme: minima
-  skin: auto
 plugins:
   - jekyll-feed
 
