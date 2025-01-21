@@ -9,7 +9,7 @@ permalink: /cv/
 
 
 ## Personal Information
-*Place of Birth:** Eisenhüttenstadt, Germany
+**Place of Birth:** Eisenhüttenstadt, Germany
 
 **Currently living in** Hasselt, Belgium
 
