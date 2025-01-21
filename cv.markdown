@@ -13,7 +13,7 @@ permalink: /cv/
 
 **Currently living in** Hasselt, Belgium
 
-
+- Email: 
 - ORCID: [https://orcid.org/0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000)
 - Mastodon: [@yourusername](https://mastodon.social/@yourusername)
 
