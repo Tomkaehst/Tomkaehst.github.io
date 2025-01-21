@@ -11,10 +11,10 @@ During the last few weeks, the weather in Belgium was rainy, gloomy, lots of fog
 
 I took the train from Hasselt station to Eupen to reach the High Fens (NL: Hoge Venen, FR: Hautes Fagnes, DE: Hohes Venn), an wetland plateau between the Ardennes and the Eifel. This nature reserve is about 15 bus minutes south of Eupen, the capital of the German-speaking community of Belgium. Eupen itself is well worth a visit but today I was exploring the High Fens and took the express bus from Eupen Station towards Sankt Vith. I exited at the Signal de Botrange, the highest point of Belgium with an elevation of 694 m. A tower was built to get to a nicer number of 700 m. Across the street is a panorama platform where one can catch a breathtaking view over the plateau.
 
-![The Signal de Botrange](../../assets/images/2025-01-18-High-Fens-Hike/IMG_4423.jpeg)
+![The Signal de Botrange](/assets/images/2025-01-18-High-Fens-Hike/IMG_4423.jpeg)
 *The Signal de Botrange.*
 
-![The view from the panorama platform](../../assets/images/2025-01-18-High-Fens-Hike/DSCF1524.jpeg)
+![The view from the panorama platform](/assets/images/2025-01-18-High-Fens-Hike/DSCF1524.jpeg)
 *The view over the plateau from the panorama platform*
 
 The panorama platform was my starting point for my hike back to Eupen station. I planned a route over 26 km through  the High Fens along the elevated wodden paths that were built to allow easily crossing the wetlands, to the Hertogenwald, and then follow the Hill river to Eupen. It was clear from the first few steps that this would be a challenge since the snow over the hiking trails has been condensed into a slippery layer of ice. Still, the weather forecast kept its promise. It was a beautiful day with vibrant, clear blue sky. Despite the thermometer reading -3 C, it wasn't a cold day. It was perfect for a winter hike. 
