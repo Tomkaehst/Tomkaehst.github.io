@@ -23,7 +23,7 @@ email: [Email Me](mailto:iciest.harness-6o@icloud.com?subject=Email%20From%20Tom
 description: >- # this means to ignore newlines until "baseurl:"
   Biochemist from FSU Jena and UHasselt 🇪🇺
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "tomkaehst.github.io" 
+url: "" 
 #github_username:  Tomkaehst
 
 # Build settings
