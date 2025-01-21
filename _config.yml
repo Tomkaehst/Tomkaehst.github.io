@@ -24,12 +24,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   Biochemist from FSU Jena and UHasselt 🇪🇺
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "tomkaehst.github.io" 
-github_username:  Tomkaehst
-orcid: https://orcid.org/0000-0003-2915-5252
-mastodon: https://det.social/@TomKa_ehst
+#github_username:  Tomkaehst
 
 # Build settings
 theme: minima
+  skin: auto
+  social_links:
+    - {platform: github, user_url: "https://github.com/Tomkaehst"}
+    - {platform: orcid, user_url: "https://orcid.org/0000-0003-2915-5252"}
+
+
 #plugins:
 
 # Exclude from processing.
