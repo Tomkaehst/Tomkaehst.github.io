@@ -19,11 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Tom Kache
-email: <a id="email-link">[email hidden]</a>
+email: [Email Me](mailto:iciest.harness-6o@icloud.com?subject=Email%20From%20Tomkaehst.Github.io)
 description: >- # this means to ignore newlines until "baseurl:"
   Biochemist from FSU Jena and UHasselt 🇪🇺
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "tomkaehst.github.io" 
 github_username:  Tomkaehst
 orcid: https://orcid.org/0000-0003-2915-5252
 mastodon: https://det.social/@TomKa_ehst
