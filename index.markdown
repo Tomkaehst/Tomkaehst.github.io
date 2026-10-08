@@ -3,8 +3,6 @@ layout: home
 title: Tom Kache
 ---
 
-# Tom Kache
-
 Postdoctoral researcher in single-molecule biophysics &middot; Jena, Germany
 
 I study how biomolecules move using single-molecule FRET (smFRET) and fluorescence spectroscopy. Watching individual molecules under near-native conditions lets us disentangle conformational states that ensemble methods average away.
