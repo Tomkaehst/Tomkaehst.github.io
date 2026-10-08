@@ -7,7 +7,7 @@ title: Tom Kache
 
 Postdoctoral researcher in single-molecule biophysics &middot; Jena, Germany
 
-I study how biomolecules move — and how that motion makes them work — using single-molecule FRET (smFRET) and fluorescence spectroscopy. Watching individual molecules under near-native conditions lets us disentangle conformational states that ensemble methods average away.
+I study how biomolecules move using single-molecule FRET (smFRET) and fluorescence spectroscopy. Watching individual molecules under near-native conditions lets us disentangle conformational states that ensemble methods average away.
 
 I am a postdoc in the [Dienerowitz group](https://www.eah-jena.de/scitec/personen/dienerowitz-maria) at Ernst-Abbe-Hochschule Jena and did my PhD in the [Dynamic Bioimaging Lab](https://www.uhasselt.be/en/onderzoeksgroepen-en/dynamic-bioimaging-lab) at Hasselt University. See my [CV](/cv/) for details.
 
