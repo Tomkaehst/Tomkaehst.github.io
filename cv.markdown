@@ -4,8 +4,6 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 
-# Curriculum Vitae
-
 ## Employment
 
 - **Postdoctoral researcher**, [Dienerowitz group](https://www.eah-jena.de/scitec/personen/dienerowitz-maria), Ernst-Abbe-Hochschule Jena (since 01/2026) — smFRET instrumentation and biomolecular dynamics within the DFG-funded [TOOLS project](https://tools-jena.de); position funded until 03/2029

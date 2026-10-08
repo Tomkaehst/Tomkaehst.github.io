@@ -28,6 +28,7 @@ github_username: Tomkaehst
 header_pages:
   - index.markdown
   - cv.markdown
+  - posts.markdown
 
 # Build settings
 theme: minima

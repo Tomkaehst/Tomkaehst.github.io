@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Tom Kache
+title: Home
 ---
 
 Postdoctoral researcher in single-molecule biophysics &middot; Jena, Germany
