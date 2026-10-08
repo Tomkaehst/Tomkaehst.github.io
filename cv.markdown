@@ -57,5 +57,3 @@ permalink: /cv/
 ## Languages
 
 German (native) &middot; English (fluent) &middot; Dutch (basic conversation)
-
-## Education
