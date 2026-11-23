@@ -5,4 +5,4 @@ date:   2026-09-15 09:00:00 +0200
 categories: [personal, conference, FRET, Tutzing]
 ---
 
-[Placeholder - write up your FRET3 conference experience here]
+[Placeholder]
